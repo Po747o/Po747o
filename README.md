@@ -4,8 +4,8 @@
   <div align="left">
  🚀 Buscando uma vaga de estágio e/ou emprego <br>
  ⚡ Interesse em front-end e design gráfico <br>
-  ⚧️  Pronomes: ela/dela | elu/delu <br>
- 💻 MySQL | Visual Studio (& Code) | Blender | Ultimaker CURA</div>
+ 💻 MySQL | Visual Studio (& Code) | Blender | Ultimaker CURA <br>
+ ✨ Pronomes: ela/dela | elu/delu <br></div>
  
 <br>
 <div align="center">  
