@@ -2,9 +2,9 @@
 
 <div align="center">
   <div align="left">
-- 🔭 Buscando uma vaga de estágio e/ou emprego <br>
-- 💬 Interesse em front-end e design gráfico <br>
-- ⚡ Pronomes: ela/dela | elu/delu</div>
+ 🚀 Buscando uma vaga de estágio e/ou emprego <br>
+ ⚡ Interesse em front-end e design gráfico <br>
+ ⚧️  Pronomes: ela/dela | elu/delu</div>
 
   <div align="center"> Visitors Count 
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Po747o}/count.svg"/></p></div>
