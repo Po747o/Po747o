@@ -4,8 +4,9 @@
   <div align="left">
  🚀 Buscando uma vaga de estágio e/ou emprego <br>
  ⚡ Interesse em front-end e design gráfico <br>
-  ⚧️  Pronomes: ela/dela | elu/delu</div>
- 💻 MySQL | Visual Studio (& Code) | Blender | Ultimaker CURA
+  ⚧️  Pronomes: ela/dela | elu/delu <br>
+ 💻 MySQL | Visual Studio (& Code) | Blender | Ultimaker CURA</div>
+ 
 <br>
 <div align="center">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Po747o&show_icons=true&count_private=true&border_color=7572fd&title_color=fff828&icon_color=7572fd&text_color=c9d1d9&bg_color=0d1117" alt="Thayna's github stats"/> 
